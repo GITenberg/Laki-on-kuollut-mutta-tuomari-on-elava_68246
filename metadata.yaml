@@ -1,0 +1,38 @@
+_repo: Laki-on-kuollut-mutta-tuomari-on-elava_68246
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Itkonen, Rieti
+    gutenberg_agent_id: '54675'
+    url: http://www.gutenberg.org/2009/agents/54675
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anatole_France
+    - https://fr.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2022-06-06'
+identifiers:
+  gutenberg: '68246'
+language: fi
+pgterms:marc905: 20210911013522france
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Osuuskunta Visa,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Laki on kuollut — mutta tuomari on elävä
+url: http://www.gutenberg.org/ebooks/68246
