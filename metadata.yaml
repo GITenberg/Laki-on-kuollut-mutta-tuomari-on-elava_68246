@@ -5,6 +5,9 @@ contributor:
     agent_name: Itkonen, Rieti
     gutenberg_agent_id: '54675'
     url: http://www.gutenberg.org/2009/agents/54675
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anatole_France
     - https://fr.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68246#Laki-on-kuollut-mutta-tuomari-on-elava
 gutenberg_issued: '2022-06-06'
 identifiers:
   gutenberg: '68246'
